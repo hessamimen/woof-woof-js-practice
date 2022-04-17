@@ -24,7 +24,7 @@
 
 #dog-bar span {
   height: 80%;
-  width: 8vw;
+  width: 9vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -46,6 +46,7 @@
 #dog-info img {
   max-width: 75vw;
   max-height: 25vw;
+  border-radius: 50%;
 }
 
 body {
